@@ -17,7 +17,9 @@ $(call inherit-product, device/tcl/boratf/device.mk)
 
 PRODUCT_DEVICE := boratf
 PRODUCT_NAME := omni_boratf
-PRODUCT_MANUFACTURER := tcl
+PRODUCT_BRAND := TCL
+PRODUCT_MANUFACTURER := TCL
+PRODUCT_MODEL := T607DL
 
 PRODUCT_GMS_CLIENTID_BASE := android-tcl
 
