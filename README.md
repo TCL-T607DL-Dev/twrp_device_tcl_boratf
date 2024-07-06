@@ -1,4 +1,4 @@
-# Android device tree for None None (boratf)
+# TWRP device tree for TCL Ion V/T607DL (boratf)
 
 ```
 #
